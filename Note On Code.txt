@@ -1,0 +1,2 @@
+Everything needed for computing calibration R and object removal is included.
+Dcraw and OCamCalib are not included.
